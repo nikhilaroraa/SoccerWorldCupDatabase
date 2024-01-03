@@ -8,7 +8,7 @@
 int main()
 {
 	printf("****************************************\n");
-	printf("*           2211 World Cup              *\n");
+	printf("*           Soccer World Cup              *\n");
     printf("****************************************\n\n");
 	//Prints the World Cup Header
 
