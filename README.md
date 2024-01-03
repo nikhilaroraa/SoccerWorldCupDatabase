@@ -9,5 +9,5 @@ information. It's a user-friendly tool designed for the dynamic world of the Soc
 without the need for data preservation across program runs.
 
 Example Run of Project:
-![worldCupDB part1](https://github.com/nikhilaroraa/SoccerWorldCupDatabase/assets/155202181/57688c6f-cc75-4df1-9bc0-b60d91867efc)
-![worldCupDB part2](https://github.com/nikhilaroraa/SoccerWorldCupDatabase/assets/155202181/715b1228-ec8b-467a-b148-34e13e18bf78)
+![worldCupDB](https://github.com/nikhilaroraa/SoccerWorldCupDatabase/assets/155202181/2f4ba470-d29b-41ff-baec-3379c12bbb8f)
+
